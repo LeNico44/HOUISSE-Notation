@@ -1,2 +1,4 @@
 # HOUISSE-Notation
-Exercice pour notation sur l'utilisation de Git
+
+__Nom:__ HOUISSE  
+__Prenom:__ NICOLAS
